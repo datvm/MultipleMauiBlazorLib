@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleMauiLibs.Lib1", "MultipleMauiLibs.Lib1\MultipleMauiLibs.Lib1.csproj", "{64118A3B-C14D-4064-83C4-BCF7DB504CAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleMauiLibs.Lib2", "MultipleMauiLibs.Lib2\MultipleMauiLibs.Lib2.csproj", "{AD4D20C1-B35B-4E50-916D-A0FF09717C59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64118A3B-C14D-4064-83C4-BCF7DB504CAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64118A3B-C14D-4064-83C4-BCF7DB504CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64118A3B-C14D-4064-83C4-BCF7DB504CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64118A3B-C14D-4064-83C4-BCF7DB504CAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD4D20C1-B35B-4E50-916D-A0FF09717C59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD4D20C1-B35B-4E50-916D-A0FF09717C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD4D20C1-B35B-4E50-916D-A0FF09717C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD4D20C1-B35B-4E50-916D-A0FF09717C59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
